@@ -1,0 +1,5 @@
+{
+  "name": "Phishguard",
+  "description": "An application to verify spam and phishing emails using advanced analysis. It provides a user-friendly interface with multi-language support to help users identify potentially harmful emails with high accuracy.",
+  "requestFramePermissions": []
+}
